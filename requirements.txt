@@ -1,6 +1,6 @@
-numpy
-PIL
-streamlit
-streamlit_drawable_canvas
-tensorflow
-cv2
+numpy==1.21.5
+PIL==9.0.1
+streamlit==1.14.0
+streamlit_drawable_canvas==1.14.0
+tensorflow==2.10.0
+cv2==4.6.0
