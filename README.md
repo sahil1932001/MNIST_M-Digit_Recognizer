@@ -17,6 +17,12 @@ After that i build a model using CNN(Convolutional Neural Network) Below you can
 
 ![model](https://user-images.githubusercontent.com/95639758/207833053-ab19ac08-5055-4e4b-ba5c-a9213cb8f31a.jpg)
 
+I got an Accuracy of 97%.
+
+After that i loaded the model and build web application using streamlit.
+
+Web Application link: https://sahil1932001-mnist-m-digit-recognizer-apppppp-x4hcsh.streamlit.app/
+
 
 
 
