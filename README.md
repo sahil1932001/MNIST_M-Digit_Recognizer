@@ -14,6 +14,7 @@ After that i reshape the array into 28×28 and normalized it.
 and converted the target column into categorical.
 
 After that i build a model using CNN(Convolutional Neural Network) Below you can see the parameters.
+![model](https://user-images.githubusercontent.com/95639758/207833053-ab19ac08-5055-4e4b-ba5c-a9213cb8f31a.jpg)
 
 
 
