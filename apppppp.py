@@ -91,9 +91,9 @@ def app():
     with st.echo("below"):
         # Specify canvas parameters in application
         drawing_mode='freedraw'
-        stroke_width = st.sidebar.slider("Stroke width: ", 1, 25, 24)
+        stroke_width = st.sidebar.slider("Stroke width: ", 1, 25, 25)
         stroke_color = st.sidebar.color_picker("Stroke color hex: ")
-        bg_color = st.sidebar.color_picker("Background color hex: ", "#eee")
+        bg_color = st.sidebar.color_picker("Background color hex: ", "#1E90FF")
         bg_image = st.sidebar.file_uploader("Background image:", type=["png", "jpg"])
         realtime_update = st.sidebar.checkbox("Update in realtime", True)
 
